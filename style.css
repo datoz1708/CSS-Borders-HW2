@@ -1,0 +1,16 @@
+.solid1 {
+    width: 357px;
+    height: 419px;
+    flex-shrink: 0;
+    border: 1px solid;
+    border-color: #B4B4B4;
+    background-color: #fff;
+}
+.paragraph1 {
+    color: #808080;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
